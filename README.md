@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1491696790
+- 👋 Hi, I’m @CBK
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on AI
